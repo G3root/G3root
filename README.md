@@ -1,5 +1,5 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-I'm Nafees Nazik, A self taught developer who loves writing JS/TS and JSX.
+I'm Nafees Nazik, A developer who loves writing JS/TS and JSX.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g3root&label=Profile%20views&color=0e75b6&style=flat-square" alt="g3root" /> </p>
 
