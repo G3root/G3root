@@ -1,9 +1,3 @@
-# ![I'm Looking for a Job](https://img.shields.io/badge/I'm%20Looking%20for%20a%20Job-Open-brightgreen)
-
-👋 Hello there! I'm actively seeking for a junior develeoper role and would love to hear from you if you have any exciting positions available.
-
-Feel free to reach out to me through LinkedIn or Twitter. I'm open to discussing potential collaborations and opportunities.
-
 <p align="center">
   <samp>
     <a href="https://nafeez.xyz">portfolio</a> .
